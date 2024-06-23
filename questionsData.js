@@ -1,40 +1,40 @@
 const questions = {
   Technology: [
-    { question: "What is your favorite programming language?" },
-    { question: "What programming language are you most proficient in?" },
-    { question: "Which programming language do you use daily?" },
-    { question: "What IDE or code editor do you prefer?" },
-    { question: "Have you contributed to any open-source projects? If yes, which ones?" },
-    { question: "What frameworks or libraries are you familiar with?" },
-    { question: "What version control system do you use?" },
-    { question: "Do you prefer frontend development, backend development, or full-stack development?" },
-    { question: "How do you stay updated with the latest technology trends?" },
-    { question: "What is your favorite tech blog or website?" }
+    "What is your favorite programming language?",
+    "What programming language are you most proficient in?",
+    "Which programming language do you use daily?",
+    "What IDE or code editor do you prefer?",
+    "Have you contributed to any open-source projects? If yes, which ones?",
+    "What frameworks or libraries are you familiar with?",
+    "What version control system do you use?",
+    "Do you prefer frontend development, backend development, or full-stack development?",
+    "How do you stay updated with the latest technology trends?",
+    "What is your favorite tech blog or website?"
   ],
   Health: [
-    { question: "How often do you exercise?" },
-    { question: "What type of exercises do you enjoy the most?" },
-    { question: "Do you participate in any sports activities regularly?" },
-    { question: "What time of day do you usually exercise?" },
-    { question: "Do you track your fitness progress? If yes, how?" },
-    { question: "What motivates you to stay active?" },
-    { question: "What is your approach to maintaining a healthy lifestyle?" },
-    { question: "What dietary habits have you adopted recently?" },
-    { question: "Do you have any health-related goals for the next year?" },
-    { question: "How do you manage stress and mental health?" }
+    "How often do you exercise?",
+    "What is your exercise routine like?",
+    "Do you participate in any sports activities regularly?",
+    "What time of day do you usually exercise?",
+    "What is your diet preference?",
+    "Do you take any dietary supplements?",
+    "How many hours of sleep do you get per night?",
+    "Do you practice mindfulness or meditation?",
+    "What health goals are you currently working towards?",
+    "Have you experienced any recent health challenges?"
   ],
   Education: [
-    { question: "What is your highest qualification?" },
-    { question: "What subject did you enjoy the most in school?" },
-    { question: "Do you have any certifications relevant to your field?" },
-    { question: "Have you attended any coding bootcamps or specialized training programs?" },
-    { question: "What was the most challenging subject during your education?" },
-    { question: "What is your favorite academic achievement?" },
-    { question: "Are you pursuing further education currently?" },
-    { question: "What was your favorite project or assignment in school?" },
-    { question: "Have you ever taught or mentored others in your field?" },
-    { question: "What skills did you learn outside of formal education?" }
-  ]
+    "What is your highest qualification?",
+    "What field of study did you pursue?",
+    "Did you pursue any additional certifications?",
+    "What was your favorite subject in school/college?",
+    "How do you prefer to study (e.g., self-study, classroom learning)?",
+    "Did you participate in any extracurricular activities?",
+    "Did you have any teaching or tutoring experience?",
+    "What skills did you gain from your education?",
+    "Do you plan to pursue further education in the future?",
+    "What advice would you give to someone starting their education journey?"
+  ],
 };
 
 module.exports = questions;
